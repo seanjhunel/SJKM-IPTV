@@ -1,11 +1,5 @@
 # 🚀 SJKM - Modern ISP Management System
 
-<p align="center">
-  <img src="https://img.shields.io/badge/version-2.0.0-blue?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/badge/php-%3E%3D7.4-8892BF?style=for-the-badge&logo=php" alt="PHP">
-  <img src="https://img.shields.io/badge/mysql-%3E%3D5.7-4479A1?style=for-the-badge&logo=mysql" alt="MySQL">
-</p>
 
 <p align="center">
   <strong>All-in-one solution for Internet Service Providers with seamless MikroTik and GenieACS integration</strong>
