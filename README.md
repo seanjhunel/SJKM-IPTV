@@ -1,4 +1,4 @@
-# 🚀 GEMBOK - Modern ISP Management System
+# 🚀 SJKM - Modern ISP Management System
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0.0-blue?style=for-the-badge" alt="Version">
@@ -11,9 +11,7 @@
   <strong>All-in-one solution for Internet Service Providers with seamless MikroTik and GenieACS integration</strong>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alijayanet/gembok-simple/main/assets/sim4.png" alt="Gembok Dashboard" width="100%">
-</p>
+
 
 ---
 
